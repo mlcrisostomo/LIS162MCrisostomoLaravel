@@ -25,7 +25,8 @@
                     <a href="{{ route('registrant.create') }}">Register for the Game Jam!</a><br><br>
                     <a href="{{ route('registrant.index') }}">View Registrants</a><br><br>
 
-                    
+                    <a href="{{ route('submission.create') }}">Submit entry for the Game Jam!</a><br><br>
+                    <a href="{{ route('submission.index') }}">View Submissions</a><br><br>
 
                     
                 </div>
